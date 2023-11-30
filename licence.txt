@@ -1,0 +1,34 @@
+CETTE APPLICATION VOUS PERMETTRA DE REALISER LES TACHES SUIVANTES :
+================== MENU PRINCIPAL =================
+== 1-Enregistrer un depot                        ==
+== 2-Afficher un depot                           ==
+== 3-Retirer un depot                            ==
+== 4-Enregistrer les comissions                  ==
+== 5-Annuler un depot                            ==
+== 6-Supprimer un depot                          ==
+== 7-Modifier un depot                           ==
+== 8-Situation des depots                        ==
+== 9-Situation des retraits                      ==
+== 10-Situation des Comissions                   ==
+== 11-Liste des codes deposer a une date         ==
+== 12-Liste des codes deposer entre deux dates   ==
+== 13-Liste de tous les codes deposer            ==
+== 14-Liste des codes retirer a une date donner  ==
+== 15-Liste des codes retirer entre deux dates   ==
+== 16-Liste de tous les codes retirer            ==
+== 17-Liste des codes annuler a une date         ==
+== 18-Liste des codes annuler entre deux dates   ==
+== 19-Liste de tous les codes annuler            ==
+== 20-Quitter                                    ==
+===================================================
+ Votre choix :
+
+CECI UNE UN PROJET DONNER PAR LE PROFESSEUR M. DIALLO ALSENY 
+AUX ETUDIANTS DE LA LICENCE 2 DES DEPARTEMENTS MIAGE ET
+ GENIE INFORMATIQUE DE L'UNIVERSITEBARACK OBAMA.
+LE CODE SOURCE EST LIBRE D'ACCES A TOUT UTILISATEUR 
+ET SE TROUVE DANS LE DOSSIER D'INSTALLATION DE L'APPLICATION;
+POUR SE CONNECTER UTILISER LE LOGIN groupe4 ET COMME MOT DE PASSE
+Dmariama CE MOT MEME MOT DE PASSE SERA UTILISER LORS DE 
+L'INSTALLATION DU SETUP.
+                         

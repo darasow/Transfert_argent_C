@@ -1,0 +1,67 @@
+# depslib dependency file v1.0
+1624230004 source:c:\users\b-gras\desktop\transfert d'argent\main.cpp
+	<iostream>
+	"fonctions.cpp"
+
+1624259389 c:\users\b-gras\desktop\transfert d'argent\fonctions.cpp
+	<iostream>
+	<fstream>
+	<cstring>
+	<windows.h>
+	<cstdlib>
+	<conio.h>
+	<winuser.h>
+	<string.h>
+	<ctime>
+	"transfert.h"
+
+1623657168 c:\users\b-gras\desktop\transfert d'argent\transfert.h
+	<cstring>
+	"dateoperation.h"
+
+1623653942 c:\users\b-gras\desktop\transfert d'argent\dateoperation.h
+
+1624259446 source:c:\users\lenovo\documents\transfert d'argent\main.cpp
+	<iostream>
+	"fonctions.cpp"
+
+1627832566 c:\users\lenovo\documents\transfert d'argent\fonctions.cpp
+	<iostream>
+	<fstream>
+	<cstring>
+	<windows.h>
+	<cstdlib>
+	<conio.h>
+	<winuser.h>
+	<string.h>
+	<ctime>
+	"transfert.h"
+
+1623657170 c:\users\lenovo\documents\transfert d'argent\transfert.h
+	<cstring>
+	"dateoperation.h"
+
+1623653944 c:\users\lenovo\documents\transfert d'argent\dateoperation.h
+
+1685649242 source:c:\users\hp\desktop\projetcorige\transfert d'argent\main.cpp
+	<iostream>
+	"fonctions.cpp"
+
+1676757095 c:\users\hp\desktop\projetcorige\transfert d'argent\fonctions.cpp
+	<iostream>
+	<fstream>
+	<cstring>
+	<windows.h>
+	<cstdlib>
+	<conio.h>
+	<winuser.h>
+	<string.h>
+	<ctime>
+	"transfert.h"
+
+1623657170 c:\users\hp\desktop\projetcorige\transfert d'argent\transfert.h
+	<cstring>
+	"dateoperation.h"
+
+1623653944 c:\users\hp\desktop\projetcorige\transfert d'argent\dateoperation.h
+
